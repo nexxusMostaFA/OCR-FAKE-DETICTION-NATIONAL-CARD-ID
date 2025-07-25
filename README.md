@@ -48,7 +48,7 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/face-recognition-api.git
+git clone  https://github.com/nexxusMostaFA/OCR-FAKE-DETICTION-NATIONAL-CARD-ID.git
 cd face-recognition-api
 2. Create & activate virtual environment (optional but recommended)
 bash
